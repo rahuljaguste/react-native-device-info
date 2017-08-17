@@ -20,5 +20,5 @@ android {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    com.google.android.gms:play-services-gcm:10.2.4
+    compile 'com.google.android.gms:play-services-gcm:10.2.4'
 }
